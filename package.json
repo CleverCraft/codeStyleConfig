@@ -1,5 +1,5 @@
 {
-  "name": "codestyle-config",
+  "name": "clevercraft-codestyle-config",
   "version": "1.0.0",
   "description": "Configuration for projects",
   "main": "index.js",
